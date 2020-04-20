@@ -1,0 +1,16 @@
+{
+  "name": "187_outlawz_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "node index.js"
+  },
+  "author": "Sharkey",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^11.5.1",
+    "log-to-file": "^2.0.2"
+  }
+}
